@@ -1,4 +1,3 @@
-
 <?php get_header(); ?>
   <!-- form begin -->
   <div class="container-fluid" id="contatti">
@@ -58,6 +57,4 @@
 
           </form> 
           <!-- form end -->
-
-          </body>
         <?php get_footer(); ?>
