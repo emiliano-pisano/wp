@@ -2,9 +2,10 @@
 <html>
 <head>
   <title></title>
- <?php wp_head(); ?>
+  <link rel="stylesheet" type="text/css" href="vendors/css/bootstrap.min.css">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
- </head>
+  <link rel="stylesheet" type="text/css" href="css/main.css">
+</head>
 <body>
   <div class="jumbotron">
     <div class="headline">
