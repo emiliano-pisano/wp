@@ -31,13 +31,13 @@ body {
 		text-shadow: -1px 0 White, 0 1px White, 1px 0 White, 0 -1px White;
 	}
 	.jumbotron {
-		background: url("/images/screenshot.jpg");
+		background: url("../images/screenshot.jpg");
 		background-size: cover;
 		min-height: 850px;
 		padding: 20px;
 	}
 	.navbar-brand {
-		background: url("/images/logo.png") no-repeat;
+		background: url("../images/logo.png") no-repeat;
 		width: 90px;
 	}
 	.navbar-default{
