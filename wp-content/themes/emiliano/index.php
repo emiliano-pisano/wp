@@ -1,4 +1,4 @@
-  <?php get_header(); ?>
+<?php get_header(); ?>
   <!-- form begin -->
   <div class="container-fluid" id="contatti">
 
@@ -8,9 +8,10 @@
         <h3> Inforidea Via G.Verdi, 19 09100 Cagliari <h3> 
           <h1> Contattaci <h1> 
           </div>
-    
-          <form >
-            <div class="row pisano-form">
+
+          <form class="pisano-form">
+
+            <div class="row">
               <div class="col-lg-12">
                 <div class="col-lg-6">
 
@@ -18,23 +19,23 @@
                     <label for="exampleInputNome">Nome</label>
                     <div class="input-group">
                       <span class="input-group-addon" id="basic-addon1"><i class="glyphicon glyphicon-user"></i></span>
-                      <input name="nome" type="text" class="form-control input-lg" placeholder="Digita qui il tuo nome" required>
+                      <input type="text" class="form-control" placeholder="Digita qui il tuo nome" required>
                     </div>
-                  </div>
 
-                  <div class="form-group">
-                    <label for="exampleInputEmail1">Indirizzo email</label>
-                    <div class="input-group">
-                      <span class="input-group-addon" id="basic-addon1"><i class="glyphicon glyphicon-envelope"></i></span>
-                      <input name="email" type="email" class="form-control input-lg" id="exampleInputEmail1" placeholder="Digita qui la tua email" required>
+                    <div class="form-group">
+                      <label for="exampleInputEmail1">Indirizzo email</label>
+                      <div class="input-group">
+                        <span class="input-group-addon" id="basic-addon1"><i class="glyphicon glyphicon-envelope"></i></span>
+                        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Digita qui la tua email" required>
+                      </div>
                     </div>
-                  </div>
 
-                  <div class="form-group">
-                    <label for="exampleInputTelefono">Telefono</label>
-                    <div class="input-group">
-                      <span class="input-group-addon" id="basic-addon1"><i class="glyphicon glyphicon-phone-alt"></i></span>
-                      <input name="telefono" type="number" class="form-control input-lg" placeholder="Digita qui il tuo numero di telefono" required>
+                    <div class="form-group">
+                      <label for="exampleInputTelefono">Telefono</label>
+                      <div class="input-group">
+                        <span class="input-group-addon" id="basic-addon1"><i class="glyphicon glyphicon-phone-alt"></i></span>
+                        <input type="number" class="form-control" placeholder="Digita qui il tuo numero di telefono" required>
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -42,7 +43,7 @@
                 <div class="col-lg-6">
                   <div class="form-group">
                     <label for="exampleInputmessage">Messaggio</label>
-                    <textarea class="form-control input-lg" placeholder="Digita qui il tuo messaggio" required></textarea>
+                    <textarea class="form-control" placeholder="Digita qui il tuo messaggio" rows="3" required></textarea>
                   </div>
                 </div>
               </div>
@@ -50,10 +51,10 @@
 
             <div class="row">
               <div class="col-lg-12 text-center">
-                <button type="submit" class="btn btn-primary btn-lg">Invia messaggio</button>
+                <button type="submit" class="btn btn-primary">Invia messaggio</button>
               </div>
             </div>
 
           </form> 
           <!-- form end -->
- <?php get_footer(); ?>
+        <?php get_footer(); ?>
