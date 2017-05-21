@@ -33,5 +33,8 @@
         </div><!-- /.navbar-collapse -->
       </div><!-- /.container-fluid -->
     </nav></p>
-    
+    <p><a class="btn btn-primary btn-lg" href="#" role="button">Il negozio</a></p>
+    <p><a class="btn btn-primary btn-lg" href="#" role="button">Cerimonie</a></p>
+    <p><a class="btn btn-primary btn-lg" href="#" role="button">Bonsai</a></p>
+    <p><a class="btn btn-primary btn-lg" href="#" role="button">I nostri lavori</a></p>
   </div>
