@@ -2,9 +2,9 @@
 <html>
 <head>
   <title></title>
- <?php wp_head(); ?>
+  <?php wp_head(); ?>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
- </head>
+</head>
 <body>
   <div class="jumbotron">
     <div class="headline">
