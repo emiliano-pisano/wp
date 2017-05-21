@@ -29,7 +29,7 @@ body {
 }
 .jumbotron {
 
-  background: url("./images/screenshot.png");
+  background: url(/images/screenshot.png);
   background-size: cover;
   min-height: 850px;
   padding: 20px;
@@ -37,7 +37,7 @@ body {
 }
 
 .navbar-brand {
-  background: url("./images/logo.png") no-repeat;
+  background: url(/images/logo.png) no-repeat;
   width: 90px;
 
 }
