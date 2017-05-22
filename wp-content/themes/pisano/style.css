@@ -42,7 +42,7 @@ h4 {
 }
 .jumbotron {
 
-  background: url("./images/sfondo.jpg");
+  background: url(./images/sfondo.jpg);
   background-size: cover;
   min-height: 950px;
   padding: 20px;
@@ -50,7 +50,7 @@ h4 {
 }
 
 .navbar-brand {
-  background: url("./images/logo.png") no-repeat;
+  background: url(./images/logo.png) no-repeat;
   width: 90px;
 
 }
