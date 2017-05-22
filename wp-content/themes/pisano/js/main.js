@@ -12,7 +12,7 @@
         // animate
         $('html, body').animate({
             scrollTop: $(hash).offset().top
-        }, 100, function(){
+        }, 1100, function(){
 
             // when done, add hash to url
             // (default click behaviour)
