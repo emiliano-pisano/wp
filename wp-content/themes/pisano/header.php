@@ -40,8 +40,8 @@
 
     <div class="row">
       <div class="col-md-12 welcome">
-        <h1>Lasciati sorprendere dalla fioritura estiva!</h1>
-        <h4>L’inverno è finito e la primavera è nell’aria! È tempo di uscire all’aperto e godersi di nuovo il giardino e il terrazzo</h4>
+        <h1><?php bloginfo('name')?></h1>
+        <h4><?php bloginfo('description')?></h4>
       </div>
     </div>
   </div>
