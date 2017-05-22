@@ -9,7 +9,7 @@
           <h1> Contattaci <h1> 
           </div>
     
-          <form role="form" data-toggle="validator">
+          <form >
             <div class="row pisano-form">
               <div class="col-lg-12">
                 <div class="col-lg-6">
