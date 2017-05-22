@@ -1,4 +1,4 @@
-$(function () {
+(function ($) {
     'use strict';
 
     $("li a[href^='#']").on('click', function(e) {
@@ -58,4 +58,4 @@ $(function () {
         }
     });
 
-});
+})(jQuery);
