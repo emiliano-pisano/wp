@@ -18,10 +18,10 @@ h4 {
 
 .btn-lg {
 
-  padding: 5px 5px;
+  border-radius: 10px;
   font-size: 14px;
   line-height: 1.3333333;
-  border-radius: 10px;
+  padding: 5px 5px;
   text-shadow: -1px 0 green, 0 1px green, 1px 0 green, 0 -1px green;
 
 }  
