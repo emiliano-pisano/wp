@@ -1,5 +1,8 @@
-(function ($) {
+(function($) {
+
     'use strict';
+
+    console.log($("li a[href^='#']"))
 
     $("li a[href^='#']").on('click', function(e) {
 
@@ -12,7 +15,7 @@
         // animate
         $('html, body').animate({
             scrollTop: $(hash).offset().top
-        }, 1100, function(){
+        }, 1000, function(){
 
             // when done, add hash to url
             // (default click behaviour)
