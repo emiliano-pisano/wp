@@ -16,6 +16,7 @@ h4 {
   color: #fff;
   background-color:rgba(163, 195, 8, 0.31);
   border-color: #f57c12;
+  
 }
 
 .btn-lg {
@@ -38,6 +39,7 @@ h4 {
   text-shadow: -1px 0 White, 0 1px White, 1px 0 White, 0 -1px White;
 
 }
+
 .jumbotron {
 
   background: url(./images/bg.jpg);
@@ -108,6 +110,7 @@ h4 {
 
     background: rgba(0,0,0, 0.2);
     border-color: transparent;
+    
   }
 
   .navbar-default .navbar-nav>li>a {
