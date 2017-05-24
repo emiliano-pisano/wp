@@ -1,14 +1,19 @@
 h1 {
+  
   font-size: 58px;
 
 }
 
 h2 {
+  
   font-size: 40px;
+  
 }
 
 h4 {
+  
   font-size: 24px;
+  
 }
 
 .btn-primary {
@@ -50,6 +55,7 @@ h4 {
 }
 
 .navbar-brand {
+  
   background: url(./images/brand.png) no-repeat;
   width: 90px;
 
@@ -81,14 +87,17 @@ h4 {
 .row pisano-form>.col-lg-12 {
 
   padding: 50px 0 50px 0;
+  
 }
 
 .row pisano-form {
 
   padding: 0px 10% 100px 10%;
+  
 }
 
 .welcome {
+  
   background: rgba(0, 0, 0, 0.2);
   color: rgba(256, 256, 256, 0.85);
   padding: 150px;
@@ -98,12 +107,14 @@ h4 {
 @media (max-width:768px) {
 
   .headline {
+    
     color: #9933FF;
     font-family: 'Brush Script MT';
     font-weight: bolder;
     font-size: 20px;
     text-align: center;
     text-shadow: -1px 0 White, 0 1px White, 1px 0 White, 0 -1px White;
+    
   }
 
   .navbar-default .navbar-collapse {
