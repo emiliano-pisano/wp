@@ -16,14 +16,6 @@ h4 {
   
 }
 
-.btn-primary {
-
-  color: #fff;
-  background-color:rgba(163, 195, 8, 0.31);
-  border-color: #f57c12;
-  
-}
-
 .btn-lg {
 
   padding: 5px 5px;
@@ -33,6 +25,14 @@ h4 {
   text-shadow: -1px 0 green, 0 1px green, 1px 0 green, 0 -1px green;
 
 }  
+
+.btn-primary {
+
+  color: #fff;
+  background-color:rgba(163, 195, 8, 0.31);
+  border-color: #f57c12;
+  
+}
 
 .headline {
 
