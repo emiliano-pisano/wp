@@ -37,7 +37,6 @@
     <p><a class="btn btn-primary btn-lg" href="#" role="button">Cerimonie</a></p>
     <p><a class="btn btn-primary btn-lg" href="#" role="button">Bonsai</a></p>
     <p><a class="btn btn-primary btn-lg" href="#" role="button">I nostri lavori</a></p>
-
     <div class="row">
       <div class="col-md-12 welcome">
         <h1><?php bloginfo('name')?></h1>
